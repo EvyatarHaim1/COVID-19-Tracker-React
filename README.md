@@ -4,5 +4,5 @@ Covid-19 Tracker:
 * Styled-Components
 * Material-UI
 * React Hooks
-* API
+* Disease.Sh-API - fetching data about COVID-19 cases and much more around the world.
 * Firebase Hosting
