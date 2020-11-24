@@ -9,6 +9,7 @@
     "@testing-library/react": "^11.2.0",
     "@testing-library/user-event": "^12.2.2",
     "chart.js": "^2.9.4",
+    "firebase": "^8.1.1",
     "leaflet": "^1.7.1",
     "numeral": "^2.0.6",
     "react": "^17.0.1",
